@@ -4,9 +4,9 @@
 
 Skills
 ---
-* Python 
-* Keras
 * Transfer Learning
+	* Keras
+* Python 
 
 Overview
 ---
